@@ -61,7 +61,8 @@ Key Findings
 ## Tableau Dashboard Analysis:
 
 
-![Dashboard Preview](images/Visualization Task 2.png)
+
+![Dashboard Preview]Visualization Task 2.png)
 
 
 ## Comparison of Actual vs. Forecasted Sales (2017):
