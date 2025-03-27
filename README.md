@@ -61,7 +61,8 @@ Key Findings
 ## Tableau Dashboard Analysis:
 
 
-![Dashboard Preview](Visualization_Task _2.png)
+![Dashboard Preview](Visualization%20Task%202.png)
+
 
 
 
