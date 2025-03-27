@@ -65,6 +65,7 @@ Key Findings
 
 
 
+
 ## Comparison of Actual vs. Forecasted Sales (2017):
 - Forecast Accuracy Trends
 In some months (March, April, and December), forecasted sales closely align with actual sales, indicating the model performs well in stable periods.
